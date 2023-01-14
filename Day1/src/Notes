@@ -1,0 +1,120 @@
+
+
+
+.java [Human Understanding language]					.class [Byte]
+----------------------------------------------------------------------
+1. ------------------------------------- > Compiler 
+2. <-------------------------------------- Decompiler
+
+
+.jar -> Combination of all the required .class file
+
+
+
+
+		WAR 									EAR
+Light weight Application				Heavy weight Application
+Web Server : Apache Tomcat Etc			Application Server : IBM WebSphere, JBOSS Etc
+
+
+
+
+
+JRE is used by only end user or tester also just need JRE? YES
+
+
+
+
+
+
+
+A - INDIA  - 1 KG of Tomato
+B - UK     - 1 Mt. of Tomato
+C - USA    - 1 Liter. of Tomato
+
+
+SI Units : International System of Units
+
+
+Data Type :
+	
+	
+	
+	
+	
+	PC:
+		C Drive : OS
+		D Drive : Study
+		B.Tech:
+			Sam1:
+				Text
+				Video
+			Sam2:
+				Text
+				Video
+			Sam3:
+				Text
+				Video
+			Sam4:
+				Text
+				Video
+		
+		E Drive : Movies
+	
+	Jr :
+		Sam1 Notes 
+		Sam1
+	
+	
+	
+	
+	
+	src/com.simplilearn.datatypes - package 
+	
+	com           - com/net
+	simplilearn   - Name of orgnization/project
+	datatypes     - name of module
+	
+	
+	
+	
+	
+	sir when we create src we created under class now y package : Question
+	sir diff between class and package YES
+	standard package naming convention YES
+	
+	
+	
+	***************
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
