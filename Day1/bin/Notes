@@ -86,22 +86,20 @@ Data Type :
 	
 	
 	***************
+
 	
 	
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	byte 	b1 = 101;
+	short 	s1 = 32767;
+	int 	i1 = 2147483647;
+	long	l1 = 500L;
+	float 	f1 = 73.8F;
+	double  d1 = 21.987654321d;
+	char 	c1 = 'A';
+	boolean b1 = true;
 	
 	
 	
