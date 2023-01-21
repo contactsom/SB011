@@ -1,0 +1,62 @@
+sir what is the diff btween logical and bitwise operators?
+
+sir we compulsory have to remember these all vaLUES = NO
+
+
+
+
+tilde operator == its reverse for 0 and 1 but how for other values
+
+
+tilde operator is reverse for 0 and 1
+
+tilde operator will not work for decimal numbers 
+
+
+Binary : 0 , 1
+
+Step 1: Decimal : 4 
+Step 2: Decimal got converted in to binary  [Binary for 4 is : 0000000000000100]
+Step 3: tilde applied for binary not decimal [~(0000000000000100)]
+Step 4: 1111111111111011 
+Step 5: Binary to decimal conversion 
+Step 6: Decimal number as final output
+
+0000000000000100 = 4
+1111111111111011 = -5
+
+
+
+
+
+OOP'S
+Object-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
