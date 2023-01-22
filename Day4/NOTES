@@ -1,0 +1,23 @@
+
+
+
+
+if single statement is there inside if else do we need braces??
+
+
+
+Q1: Valid
+	if(true)
+		System.out.println("Hello");
+	
+Q2: Not Valid 
+	if(true)
+		int x = 10;
+	
+	Note :  Curly braces are optional and without curly braces we can take only one statement which
+	 should not be declerative statement.
+	 
+Q3:
+	if(true);
+
+	 
