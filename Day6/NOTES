@@ -1,0 +1,88 @@
+
+
+/Day5/src/com/simplilearn/dowhileloop/Lab1.java
+
+/Day5/src/com/simplilearn/foreachloop/Lab1.java
+
+
+com.simplilearn.classes
+
+
+com.
+simplilearn.
+classes
+
+
+to organize the code
+
+com.simplilearn.classes
+					Lab1.java
+					Lab2.java
+com.simplilearn.classes1
+					Lab1.java
+					
+Anywhere :
+	Inside the project Day6 I can call Day2 Java Class
+	I can call the java class from this package /Day5/src/com/simplilearn/dowhileloop/
+	to /Day5/src/com/simplilearn/foreachloop/
+	
+	
+	
+	https://en.wikipedia.org/wiki/IEEE_754
+	
+	pi- 22/7 
+	3.14159265359
+	
+	Output  :
+		A - 3.14
+		B - 3.141
+		C - 3.1415
+		D - 3.14159
+		E - 3.141592
+
+	
+	
+	Calculating the Area of Circle : pi (r * r), r= 5
+	
+	A- Calculating the Area of Circle : pi (r * r) = Pi = 3.14 * 5 * 5 =
+	B- Calculating the Area of Circle : pi (r * r) = Pi = 3.141 * 5 * 5 =
+	C- Calculating the Area of Circle : pi (r * r) = Pi = 3.1415 * 5 * 5 =
+	D- Calculating the Area of Circle : pi (r * r) = Pi = 3.14159 * 5 * 5 =
+	
+	
+	
+
+	
+	this is constructor .
+	For which Class : Employee
+	
+	Employee()
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
