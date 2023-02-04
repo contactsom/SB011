@@ -1,0 +1,4 @@
+protected - accessible from child class object of different package 
+whereas 
+default - not accessible outside the package in anyway...
+
