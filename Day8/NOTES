@@ -1,0 +1,77 @@
+
+Is both are Same ? YES
+public class Simplilearn extends Object {}
+public class Simplilearn  {}
+
+
+Is both are Same ? YES
+
+public Employee() {}
+	
+	
+public Employee() {
+		super();	
+	}
+	
+	
+//Software Requirements Specification (SRS)
+	
+	
+	
+	
+	
+BREAK: 11:30 AM IST
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+1. STUDENT : Sir i want to develop my LMS as per this SRS.
+2. GUIDE   : I want LMS to be developed as per this SRS only. 
+	
+	
+public interface Employee {
+
+	public void getCourseName();
+	public void getEmployeeName();
+	public abstract void getEmployeeAge();
+
+}
+
+OR
+
+public interface Employee {
+
+	 void getCourseName();
+	 void getEmployeeName();
+	 void getEmployeeAge();
+
+}
+
+
+
+WHY ?
+----
+By defult , all the method in side Interface are "Public","abstract"
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
