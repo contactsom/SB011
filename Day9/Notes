@@ -1,0 +1,153 @@
+Class
+	Variable
+	Method
+	Constructor
+
+Create the object of the Class
+	i.e Call the Constructor for the respective class.
+	i.e Class will get loaded 
+	i.e Memory allocation for object
+	
+Class Employee{
+
+	String empname;
+	int empSal;
+	
+}
+
+Employee employee = new Employee();
+
+employee - Object of Employee Class
+
+System.out.Printn(employee.empname);
+System.out.Printn(employee.empSal);
+
+
+Object (employee) can access all the Variable,Method,Constructor of the class (Employee) - true/false
+
+
+
+
+
+
+
+
+
+
+public 
+private
+default
+protected
+
+public > Private
+
+increasing and decreasing the scope
+
+Case 1 : 
+	public
+	Private
+	decreasing the scope
+	
+Case 2 : 
+	Private
+	public
+	increasing the scope
+
+
+
+
+
+
+
+
+Data type
+int 
+float
+
+Data Type / Wrapper class 
+Integer
+Float
+
+
+
+Parent
+public Object getSum(){};
+
+
+	Child
+	public int getSum(){};
+	
+	Child
+	public String getSum(){};
+	
+	Child
+	public float getSum(){};
+
+
+
+
+
+
+
+
+List
+ArrayList
+
+public class ArrayList implements List
+public class Vector implements List
+public class LinkedList implements List
+
+public class ArrayList implements List
+
+List [I]
+	1. contain duplicates.
+	2. Insertion order preserved or ordered collection
+
+
+ArryList [C]
+	1. contain duplicates.
+	2. Insertion order preserved or ordered collection
+	3. Default size of AL is 10
+	4. current capacity =  current capacity * 3/2 + 1
+	5. Enhanced for loop, iterator , List Iterator
+	
+	Ex : 10
+		1. 10
+		2. 10*3/2+1 = 16
+		3. 16*3/2+1 = 25
+		4. 25*3/2+1 = 37
+		
+				ArrayList arrayList= new ArrayList();
+				ArrayList<Integer> arrayList= new ArrayList<Integer>();
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
