@@ -1,0 +1,15 @@
+
+
+The first option should return the current file names in ascending order.
+ The root directory can be either empty or contain few files or folders in it
+
+ The second option should return the details of the user interface such as options 
+ displaying the following:
+
+Add a file to the existing directory list
+
+You can ignore the case sensitivity of the file names 
+
+Delete a user specified file from the existing directory list
+
+You can add the case sensitivity on the file name in order to ensure that the right file 

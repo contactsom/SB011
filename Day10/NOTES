@@ -1,0 +1,91 @@
+sir to fetch data from vector we can only use enumerartion as a cursor? YES
+
+Cursor :
+	Enumeration- Vector
+	Iterator
+	List iterator
+	
+	
+	foreach loop will not work for linked list like arraylist?? It worked
+	what is the differencew between arraylist and linkedlist?
+	
+	sir when we use list iterator we give object as iterstor only..why?
+	
+	real time scenario how we will know when to use different collections??
+	
+	
+Linked List :
+	1. Insertion order Preserved 
+	2. Duplicate object Allowed
+	3. Null value is possible 
+	4. This is good for insertion and deletion operation
+	5. Worst choice for retriving the element.
+	
+	
+	
+Set (I) :
+	1. It allowed duplicate element	
+
+HashSet :
+	1. It not allowed duplicate element	
+	2. Insertion order not preserved,.
+	3. null value allowed [only once]
+	
+	
+	
+	
+	*******************************
+	
+	
+if we want only 3 and Farhin then is there a way to get it directly rather than iterating
+		
+	
+	
+	
+	Thread:
+	*******
+	1. Extending the thread Class
+	2. Implementing the Runnable Interface(*)
+	
+	
+	
+
+	
+Exception Handeling :
+1. Compile Time Error
+2. Run Time 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
